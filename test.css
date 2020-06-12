@@ -1,4 +1,10 @@
-html,body{
-
-	background:skyblue;
+html,
+body {
+    background: skyblue;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    margin: 150px auto;
 }
